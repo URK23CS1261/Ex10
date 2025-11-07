@@ -16,7 +16,7 @@ const Navbar = () => {
     <BSNavbar bg="dark" variant="dark" expand="lg" className="mb-4">
       <Container>
         <BSNavbar.Brand as={Link} to="/">
-          MERN RBAC
+          BKK
         </BSNavbar.Brand>
         <BSNavbar.Toggle aria-controls="basic-navbar-nav" />
         <BSNavbar.Collapse id="basic-navbar-nav">
@@ -57,3 +57,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
